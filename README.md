@@ -9,7 +9,7 @@ and compile with the command "javac BusinessCardParser.java"
 To run the program type "java BusinessCardParser" and you will be prompted to enter a file name. Enter the name
 of whatever text file you would like parse including the extention of the file. 
 
-For example, the file test1_Mike_Smith.txt would be entered as test1_Mike_Smith.txt
+For example, the file test_Mike_Smith.txt would be entered as test_Mike_Smith.txt
 
 The program will then output the name, phone number, and email it had parsed from the text file. Any value of
 "Unknown" means that for that particular attribute, a value was not found.
